@@ -1,0 +1,2 @@
+.movie{background-color:#fff;display:flex;padding:20px;margin:40px;width:700px;box-shadow:.5em 1em 1em rgba(0,0,0,.2)}.movie_info{margin:0 15px}.movie_poster{position:relative;top:-50px}.movie_poster img{width:200px}body{background-color:#edf0f7;display:flex}.container{padding:40px}.container,.loader{height:100vh;display:flex;justify-content:center}.loader{width:100vw;align-items:center;font-size:100px;font-weight:700}.movies{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap}
+/*# sourceMappingURL=main.8116ed47.chunk.css.map */
