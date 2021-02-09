@@ -1,0 +1,17 @@
+.movie_detail {
+  margin: 70px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  background-color: white;
+}
+
+.movie_detail_poster {
+  margin: 10px;
+}
+.movie_detail_poster img {
+  width: 300px;
+}
+.movie_detail_info {
+  margin: 30px;
+}
