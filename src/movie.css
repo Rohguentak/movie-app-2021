@@ -1,0 +1,19 @@
+.movie {
+  background-color: white;
+  display: flex;
+  padding: 20px;
+  margin: 40px;
+  width: 700px;
+  box-shadow: 0.5em 1em 1em rgba(0, 0, 0, 0.2);
+}
+.movie_info {
+  margin: 0px 15px;
+}
+
+.movie_poster {
+  position: relative;
+  top: -50px;
+}
+.movie_poster img {
+  width: 200px;
+}
